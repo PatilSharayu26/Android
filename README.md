@@ -8,7 +8,7 @@ ChatConnect is a modern real-time chat application developed using **Kotlin**, *
 
 **[https://drive.google.com/file/d/1rZDizv3mStcMBN7an3YznI5x-ff70118/view?usp=sharing](#)**  
 
-**[https://github.com/Rohitmh09/android-chatconnect-real-time-chat-app.git](#)**
+**[https://github.com/PatilSharayu26/Android.git](#)**
 
 ---
 
@@ -59,7 +59,7 @@ ChatConnect/
 
 ## Author
 
-**Rohit Ananda Mahadik**  
+**Sharayu Sanjay Patil**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
